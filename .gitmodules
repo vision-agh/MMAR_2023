@@ -1,0 +1,9 @@
+[submodule "MultiTask_V3"]
+	path = MultiTask_V3
+	url = git@github.com:vision-agh/mt_kria.git
+[submodule "YOLOP"]
+	path = YOLOP
+	url = git@github.com:vision-agh/YOLOP.git
+[submodule "HybridNets"]
+	path = HybridNets
+	url = git@github.com:vision-agh/HybridNets.git
